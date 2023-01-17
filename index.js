@@ -14,8 +14,9 @@ DOM = 'canvas';
 auto = document.getElementById(DOM);
 
 function play() {
-    play_afk = setInterval(function(){
+    setInterval(function(){
         auto.click()
     }, setTime);
-    play_afk.start()   
+
 }
+play.start()
