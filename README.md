@@ -1,3 +1,10 @@
+<p align="center"><a href="http://qira.eu.org" target="_blank"><img src="https://i.ibb.co/gt8XvvN/logo-viriustrade.png" width="200" height="180" alt="Virius Logo">
+<!--   <img src="" width="200" height="180" alt="Virius Logo"> -->
+  </a></p>
+  <p align="center"><strong>Virius Community</strong></p>
+  <br>
+  
+<hr>
 
 # anti afk JavaScript Game
 
