@@ -1,0 +1,23 @@
+{
+  "name": "anti-afk",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><a href=\"http://qira.eu.org\" target=\"_blank\"><img src=\"https://i.ibb.co/gt8XvvN/logo-viriustrade.png\" width=\"200\" height=\"180\" alt=\"Virius Logo\">\r <!--   <img src=\"\" width=\"200\" height=\"180\" alt=\"Virius Logo\"> -->\r   </a></p>\r   <p align=\"center\"><strong>Virius Community</strong></p>\r   <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiraxyz/pony-antiafk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiraxyz/pony-antiafk/issues"
+  },
+  "homepage": "https://github.com/qiraxyz/pony-antiafk#readme",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "cors": "^2.8.5"
+  }
+}
