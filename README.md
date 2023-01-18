@@ -46,7 +46,7 @@ function play() {
         auto.click()
     }, setTime); 
 }
-play.start()
+play()
 ```
 
 and then go to the inspect element and go to console paste and enter.
