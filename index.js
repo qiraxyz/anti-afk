@@ -19,4 +19,4 @@ function play() {
     }, setTime);
 
 }
-play.start()
+play()
