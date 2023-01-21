@@ -5,7 +5,7 @@ var setTime;
 var DOM;
 
 // set time click 15 min = 900000ms
-setTime = 900000;
+setTime = 200;
 
 // set id canvas in game
 DOM = 'canvas';
@@ -13,10 +13,7 @@ DOM = 'canvas';
 // get canvas games
 auto = document.getElementById(DOM);
 
-function play() {
     setInterval(function(){
         auto.click()
+        console.log('auto afk on')
     }, setTime);
-
-}
-play()
