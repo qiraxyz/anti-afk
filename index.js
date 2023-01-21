@@ -14,6 +14,5 @@ DOM = 'canvas';
 auto = document.getElementById(DOM);
 
     setInterval(function(){
-        auto.click()
-        console.log('auto afk on')
+        auto.click(console.log('auto afk on'))
     }, setTime);
