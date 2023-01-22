@@ -5,7 +5,7 @@ var setTime;
 var DOM;
 
 // set time click 15 min = 900000ms
-setTime = 200;
+setTime = 1000;
 
 // set id canvas in game
 DOM = 'canvas';
