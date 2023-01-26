@@ -41,3 +41,26 @@ yes u can
 
 for now this script can't be use in mobile apps.
 
+
+## Deployment Mobile
+
+To use this script u must using [@eruda](https://github.com/liriliri/eruda)
+ script
+
+Copy this Script :
+```javascript
+ javascript:(function () { var script = document.createElement('script'); script.src="//cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = function () { eruda.init() } })();
+```
+**2.) after copy the code then klick dot in the right top side**
+
+**3.) and then klick bookmark or star image and then name the bookmark Eruda - Script**
+
+**4.) and change the URL with the script you copy in the top and save**
+
+
+## Running the Eruda SCript
+
+To run tests, just go to the pony town and click the Bookmark Eruda - SCript.
+
+Full tutorial in the youtube :
+
