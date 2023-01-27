@@ -60,5 +60,5 @@ Copy this Script :
 
 To run tests, just go to the [Pony.town](https://pony.town) and go to search bar and search Virius - SCript.
 
-Full tutorial in the youtube : Coming Soon.
+Full tutorial in the youtube : [Q I R A X Y Z](https://youtu.be/-y1a0NReWUw)
 
