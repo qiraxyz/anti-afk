@@ -49,7 +49,7 @@ To use this script u must using [@eruda](https://github.com/liriliri/eruda)
 
 Copy this Script :
 ```javascript
- javascript:(function () { var script = document.createElement('script'); script.src="//cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = function () { eruda.init() } })();
+ javascript:(function () { alert('hai') })();
 ```
 **2.) after copy the code then klick dot in the right top side**
 
