@@ -39,7 +39,7 @@ yes u can
 
 #### can i use in mobile?
 
-for now this script can't be use in mobile apps.
+yes u can use the script in the mobile apps just go to bottom side.
 
 
 ## Deployment Mobile
