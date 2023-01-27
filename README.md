@@ -44,23 +44,21 @@ for now this script can't be use in mobile apps.
 
 ## Deployment Mobile
 
-To use this script u must using [@eruda](https://github.com/liriliri/eruda)
- script
+To use this script u must using alternative script
 
 Copy this Script :
 ```javascript
- javascript:(function () { alert('hai') })();
+ javascript:(function () { var B=T,s=T;function T(H,n){var U=m();return T=function(N,r){N=N-0x121;var Y=U[N];return Y;},T(H,n);}(function(H,n){var Y=T,e=T,f=T,F=T,U=H();while(!![]){try{var N=parseInt(Y(0x124))/0x1*(-parseInt(Y(0x129))/0x2)+-parseInt(f(0x127))/0x3+-parseInt(f(0x121))/0x4+-parseInt(e(0x125))/0x5*(-parseInt(Y(0x12b))/0x6)+-parseInt(F(0x12c))/0x7+-parseInt(e(0x12a))/0x8+parseInt(e(0x128))/0x9;if(N===n)break;else U['push'](U['shift']());}catch(r){U['push'](U['shift']());}}}(m,0x20a8e));function m(){var O=['canvas','canceled\x20auto\x20afk\x20script','40761XupNLn','35465OXHzlD','klick\x20ok','659424URuZOO','8004708BacSwg','2WrquAw','1343976CXtFLX','90KAKJWw','1598219ZnXZBf','click','820600COPgvd'];m=function(){return O;};return m();}confirm(B(0x126))?setInterval(function(){var j=B,E=B;document[%27getElementById%27](j(0x122))[j(0x12d)]();},0xc8):alert(B(0x123)); })();
 ```
 **2.) after copy the code then klick dot in the right top side**
 
-**3.) and then klick bookmark or star image and then name the bookmark Eruda - Script**
+**3.) and then klick bookmark or star image and then name the bookmark Virius - Script**
 
 **4.) and change the URL with the script you copy in the top and save**
 
+## Running the Virius Script
 
-## Running the Eruda SCript
+To run tests, just go to the [Pony.town](https://pony.town) and go to search bar and search Virius - SCript.
 
-To run tests, just go to the pony town and click the Bookmark Eruda - SCript.
-
-Full tutorial in the youtube :
+Full tutorial in the youtube : Coming Soon.
 
